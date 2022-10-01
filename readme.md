@@ -19,9 +19,9 @@ Main Function And Let:
 ![2](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/2.png?raw=true)
 In The Index: 
 ![3](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/3.png?raw=true)
-The Last Number: 
+The Last Number: <br>
 ![4](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/4.png?raw=true)
-Deobfuscating:
+Deobfuscating:<br>
 ![5](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/5.png?raw=true)
 
 Result: 
