@@ -21,7 +21,7 @@ In The Index:
 ![3](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/3.png?raw=true)
 The Last Number: <br>
 ![4](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/4.png?raw=true)
-Deobfuscating:<br>
+<br>Deobfuscating:<br>
 ![5](https://github.com/NotFubukIl/PreEmptiveFucker-/blob/main/images/5.png?raw=true)
 
 Result: 
